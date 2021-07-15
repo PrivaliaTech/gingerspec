@@ -101,7 +101,7 @@
         <cassandra-driver-core.version>3.2.0</cassandra-driver-core.version>
         <guava.version>23.0</guava.version>
         <lz4.version>1.2.0</lz4.version>
-        <httpclient.version>4.5.1</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <mongo-java-driver.version>2.12.3</mongo-java-driver.version>
         <selenium-java.version>3.141.59</selenium-java.version>
         <jsoup.version>1.7.3</jsoup.version>
